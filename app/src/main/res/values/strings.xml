@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BinauralBeatsApp</string>
+
+    <string name="binaural">Binaural Beats</string>
+    <string name="isochronic">Isochronic Tones</string>
+    <string name="monaural">Monaural Beats</string>
+    <string name="music">Created Binaural Beats</string>
+    <string name="pink">Pink Noise</string>
+    <string name="music_mask">Music Masking</string>
+    <string name="other">Other</string>
+    <string name="carrier">Carrier Frequency</string>
+    <string name="freq_diff">Frequency Difference</string>
+    <string name="pulse">Pulse Frequency</string>
+    <string name="mix">Masking Mix</string>
+    <string name="song_a_tribe_called_quest_bonita_applebum">A Tribe Called Quest - Bonita Applebum</string>
+    <string name="song_aaron_neville_tell_it_like_it_is">Aaron Neville - Tell It Like It Is</string>
+    <string name="song_abba_sos">ABBA - SOS</string>
+    <string name="song_abc_poison_arrow">ABC - Poison Arrow</string>
+    <string name="song_ac_dc_dirty_deeds_done_dirt_cheap">AC/DC - Dirty Deeds Done Dirt Cheap</string>
+    <string name="song_adam_and_the_ants_prince_charming">Adam and The Ants - Prince Charming</string>
+    <string name="song_adam_ant_wonderful">Adam Ant - Wonderful</string>
+    <string name="song_adverts_gary_gilmores_eyes">Adverts - Gary Gilmore s Eyes</string>
+    <string name="song_aerobic_jonquil_sweat_machine">Aerobic Jonquil - Sweat Machine</string>
+    <string name="song_aerosmith_dude_looks_like_a_lady">Aerosmith - Dude Looks Like A Lady</string>
+    <string name="song_aimee_mann_wise_up">Aimee Mann - Wise Up</string>
+    <string name="song_air_sexy_boy">Air - Sexy Boy</string>
+    <string name="song_al_green_sha_la_la_la_make_me_happy">Al Green - Sha La La (Make Me Happy)</string>
+    <string name="song_alanis_morissette_thank_u">Alanis Morissette - Thank U</string>
+    <string name="song_alice_cooper_elected">Alice Cooper - Elected</string>
+    <string name="song_alice_in_chains_no_excuses">Alice In Chains - No Excuses</string>
+    <string name="song_alicia_keys_fallin">Alicia Keys - Fallin</string>
+    <string name="song_allman_brothers_band_melissa">Allman Brothers Band - Melissa</string>
+    <string name="song_altered_images_dont_talk_to_me_about_love">Altered Images - Dont Talk To Me About Love</string>
+    <string name="song_american_music_club_jesus_hands">American Music Club - Jesus Hands</string>
+
+
+</resources>
