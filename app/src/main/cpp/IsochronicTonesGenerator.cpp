@@ -30,7 +30,10 @@ namespace synth{
             }
         }
 
-        float pinkNoiseSample = pinkNoiseGenerator.getSample();
+        float pinkNoiseSample = 0;
+        if(hasPinkNoise){
+            pinkNoiseSample = pinkNoiseGenerator.getSample();
+        }
 
         float carrierSample = amp * sin(carrierPhase);
         float pulseSample;

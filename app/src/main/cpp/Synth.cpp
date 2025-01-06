@@ -54,6 +54,7 @@ namespace synth {
     }
     void Synth::setPinkNoiseMasking(bool hasPinkNoise) {
         LOGD("Pink Noise button Pressed");
+        audioSource->setPinkNoise(hasPinkNoise);
     }
     void Synth::setMusicMasking(bool hasMusic) {
         LOGD("Music Masking button Pressed");
